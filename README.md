@@ -52,7 +52,7 @@ For demonstration purposes, the knowledge base is loaded with FAQ content about 
 
 ## Screenshots
 
-![alt text](image.png)
+![Workflow Screenshot](screenshot.png)
 
 ## Key Learnings
 
