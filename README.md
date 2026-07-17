@@ -52,7 +52,7 @@ For demonstration purposes, the knowledge base is loaded with FAQ content about 
 
 ## Screenshots
 
-![Workflow Screenshot](screenshot.png)
+![Workflow Screenshot](Workflow%20Image/Screenshot.png)
 
 ## Key Learnings
 
